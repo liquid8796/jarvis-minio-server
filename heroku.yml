@@ -1,5 +1,5 @@
 build:
   docker:
     web: Dockerfile
-      ports: 
-        - "9000:9001"
+    ports: 
+        - "9000:9001" 
