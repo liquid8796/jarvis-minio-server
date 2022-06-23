@@ -1,5 +1,5 @@
 {
-  "name": "jarvis-minio",
+  "name": "jarvis-minio-server",
   "description": "deploy minio to Heroku.",
   "keywords": ["minio"],
   "env": {
