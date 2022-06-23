@@ -1,4 +1,4 @@
-FROM heroku/heroku:22
+FROM heroku/heroku:16
 
 ADD entrypoint.sh /entrypoint.sh
 
