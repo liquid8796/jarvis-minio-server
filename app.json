@@ -2,6 +2,7 @@
   "name": "jarvis-minio",
   "description": "deploy minio to Heroku.",
   "keywords": ["minio"],
+  "ports": ["9000:9001"],
   "env": {
     "ACCESS_KEY": {
        "description": "MINIO_ACCESS_KEY, please change to your access key",
