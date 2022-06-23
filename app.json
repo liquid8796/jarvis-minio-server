@@ -5,11 +5,11 @@
   "env": {
     "ACCESS_KEY": {
        "description": "MINIO_ACCESS_KEY, please change to your access key",
-       "value": "minio"
+       "value": "FatRat_080796"
      }, 
     "SECRET_KEY": {
        "description": "MINIO_SECRET_KEY, please change to your secret key",
-       "value": "123456789"
+       "value": "Qwerty@010521@Bep"
      }
   },
   "website": "https://github.com/liquid8796/jarvis-minio",
