@@ -10,7 +10,7 @@
     "SECRET_KEY": {
        "description": "MINIO_SECRET_KEY, please change to your secret key",
        "value": "123456789"
-     }
+     },
     "PORT": {
        "description": "MINIO_PORT, please change to your port",
        "value": "9000"
