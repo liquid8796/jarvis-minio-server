@@ -14,5 +14,5 @@
   },
   "website": "https://github.com/liquid8796/jarvis-minio",
   "repository": "https://github.com/liquid8796/jarvis-minio",
-  "stack": "heroku-20"
+  "stack": "container"
  }
